@@ -1,0 +1,104 @@
+{
+    "yearly": [
+        {
+            "title": "Starter",
+            "price": 17,
+            "description": "Ideal for freelancers and contractors just starting out. Billed annually.",
+            "checks": [
+                "All Templates",
+                "Unlimited Clients & Projects",
+                "Invoicing & Payments",
+                "Proposal & Contracts",
+                "Scheduling",
+                "Task & Time Tracking",
+                "Client CRM",
+                "Expense Tracking",
+                "Up to 5 Projects Collaborators"
+            ]
+        },
+        {
+            "title": "Professional",
+            "price": 32,
+            "description": "Everything a growing independent business needs to thrive Billed annually.",
+            "checks": [
+                "Everything in Starter, plus:",
+                "Custom Branding",
+                "Forms & Questionnaires",
+                "Workflow Automations",
+                "Client Portal",
+                "QuickBooks Integration",
+                "Calendly Integration",
+                "Zapier Integration",
+                "Up to 15 Project Collaborators"
+            ]
+        },
+        {
+            "title": "Business",
+            "price": 52,
+            "description": "The perfect package for small businesses and agencies. Billed annually.",
+            "checks": [
+                "Everything in Professional, plus:",
+                "Subcontractor Management",
+                "Hiring Agreement Templates (1099 contractors)",
+                "Subcontractor Onboarding",
+                "Talent Pool",
+                "3 Team Seats additional seats $9/month",
+                "Accountant Access",
+                "Connect Multiple Bank Accounts",
+                "Unlimited Subcontractors",
+                "Unlimited Project Collaborators"
+            ]
+        }
+    ],
+    "monthly": [
+        {
+            "title": "Starter",
+            "price": 24,
+            "description": "Ideal for freelancers and contractors just starting out.",
+            "checks": [
+                "All Templates",
+                "Unlimited Clients & Projects",
+                "Invoicing & Payments",
+                "Proposal & Contracts",
+                "Scheduling",
+                "Task & Time Tracking",
+                "Client CRM",
+                "Expense Tracking",
+                "Up to 5 Projects Collaborators"
+            ]
+        },
+        {
+            "title": "Professional",
+            "price": 39,
+            "description": "Everything a growing independent business needs to thrive.",
+            "checks": [
+                "Everything in Starter, plus:",
+                "Custom Branding",
+                "Forms & Questionnaires",
+                "Workflow Automations",
+                "Client Portal",
+                "QuickBooks Integration",
+                "Calendly Integration",
+                "Zapier Integration",
+                "Up to 15 Project Collaborators"
+            ]
+        },
+        {
+            "title": "Business",
+            "price": 79,
+            "description": "The perfect package for small businesses and agencies.",
+            "checks": [
+                "Everything in Professional, plus:",
+                "Subcontractor Management",
+                "Hiring Agreement Templates (1099 contractors)",
+                "Subcontractor Onboarding",
+                "Talent Pool",
+                "3 Team Seats additional seats $9/month",
+                "Accountant Access",
+                "Connect Multiple Bank Accounts",
+                "Unlimited Subcontractors",
+                "Unlimited Project Collaborators"
+            ]
+        }
+    ]
+}
